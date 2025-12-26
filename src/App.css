@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: 'Inter', 'Segoe UI', sans-serif;
+background: linear-gradient(
+  135deg, 
+  #0052d4 0%,    /* Deep Blue Top-Left */
+  #4361ee 35%,   /* Mid Royal Blue */
+  #7209b7 70%,   /* Rich Purple */
+  #9b5de5 100%   /* Bright Violet Bottom-Right */
+);  min-height: 100vh;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  
+}
